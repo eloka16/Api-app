@@ -1,0 +1,23 @@
+{
+  "name": "public_api",
+  "version": "1.0.0",
+  "description": "commandline api",
+  "main": "index.js",
+  "scripts": {
+    "test": "api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloka16/Public_Api.git"
+  },
+  "author": "henry chukwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloka16/Public_Api/issues"
+  },
+  "homepage": "https://github.com/eloka16/Public_Api#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "twitter": "^1.4.0"
+  }
+}
